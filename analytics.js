@@ -1,2 +1,2 @@
 "use strict";
-confirm.log('Sending...');
+console.log('Sending...');

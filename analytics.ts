@@ -1,1 +1,1 @@
-confirm.log('Sending...');
+console.log('Sending...');
